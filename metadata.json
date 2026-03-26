@@ -1,0 +1,5 @@
+{
+  "name": "VeoScript Prompt Generator",
+  "description": "A professional tool to convert simple ideas into detailed, technical JSON prompts for AI video generation models like Veo and Sora.",
+  "requestFramePermissions": []
+}
